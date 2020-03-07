@@ -1,5 +1,3 @@
-# Formularz_testy_automat
-
 # The functional automated tests of simple form.
 This tests require Python 3.* and pytest framework, work on Chrome browser.
 
