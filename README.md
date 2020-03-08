@@ -1,7 +1,12 @@
 # The functional automated tests of simple form.
-This tests require Python 3.* and pytest framework, work on Chrome browser.
+This tests require Python 3.* and pytest framework. Tests work on Chrome browser.
 
-*How to run it*
+If you use PyCharm, you need to change test runner first:
+
+Open the Settings/Preferences | Tools | Python Integrated Tools settings dialog.
+In the Default test runner field select pytest.
+
+*How to run tests*
 
 1. Install project on a local machine:
 
